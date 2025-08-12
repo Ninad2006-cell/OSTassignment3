@@ -18,4 +18,3 @@ cout<<"30 Days"<<endl;
 
 return 0;
 }
-241080014
